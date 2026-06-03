@@ -1,0 +1,10 @@
+checkpoints**
+dataset/**
+dataset
+__pycache__**
+__pycache__
+*.pyc
+scripts
+**.sh
+**.pdf
+**plot**
