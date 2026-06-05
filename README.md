@@ -1,6 +1,6 @@
 # IR3DE: A Linear Router for Large Language Models
 
-This repository contains the code and instructions to replicate the experiments in the paper IR3DE: A Linear Router for Large Language Models.
+This repository contains the code and instructions needed to reproduce the experiments from the paper "_[IR3DE: A Linear Router for Large Language Models](https://arxiv.org/pdf/2606.06098)_", accepted at the Resource-Adaptive Foundation Model Inference (AdaptFM) Workshop at ICML 2026.
 
 ![IR3DE](./assets/teaser.png)
 
@@ -20,7 +20,8 @@ For the environment and the datasets, please follow [this](https://github.com/ge
 @misc{fani2026ir3de,
   title={IR3DE: A Linear Router for Large Language Models},
   author={Fan{\`i}, Eros and Ersoy, O{\u{g}}uzhan},
-  booktitle={Resource-Adaptive Foundation Model Inference workshop (AdaptFM) @ ICML 2026},
-  year={2026},
+  eprint={2606.06098},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
 }
 ```
